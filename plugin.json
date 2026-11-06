@@ -1,0 +1,40 @@
+{
+  "name": "native-graph-filter",
+  "author": "370958248",
+  "url": "https://github.com/370958248/native-graph-filter",
+  "version": "0.2.0",
+  "minAppVersion": "3.8.9",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin"
+  ],
+  "frontends": [
+    "desktop",
+    "browser-desktop"
+  ],
+  "disabledInPublish": true,
+  "displayName": {
+    "default": "全局关系过滤",
+    "zh-CN": "全局关系过滤"
+  },
+  "description": {
+    "default": "在思源自带全局关系图中隐藏指定笔记本或文档分支，保留原文与真实引用。",
+    "zh-CN": "在思源自带全局关系图中隐藏指定笔记本或文档分支，保留原文与真实引用。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh-CN": "README.md"
+  },
+  "icon": "icon.png",
+  "preview": "preview.png",
+  "keywords": [
+    "全局关系图",
+    "关系图过滤",
+    "隐藏笔记本",
+    "隐藏分支",
+    "原生关系图",
+    "graph",
+    "filter"
+  ]
+}
